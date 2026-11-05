@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1933,
+      "sha256": "e5440baf39de1c3b7aa47bd1f37e24d1f75c38287530f89114f397802d0c5df6"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 280045,
+      "sha256": "e402e006a962ec32354c067a2d5cb5ff8254423f49f0547874c1de8488d93d10"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2340639,
+      "sha256": "c0601db38d8e1f22abbe98abdde76bb9860ee8acc4c9a374fb6bbe21a9c05432"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 289,
+      "sha256": "2ad80aa3e80728e1641695907824b15957101a943be55f88d19c3d1a26869deb"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "e4f57375527032e46c163387b92ad8d9e6b66b98bace83528859c7fe4aabbf65"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 284167,
+      "sha256": "5d2d942385041e351e70c98c72cae450b072579e6ed79bf2ba0eec3f5386e60e"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 757,
+      "sha256": "8ad44fb898acd78d6fd75b398594e1fb038031bc8ca428b77e45727e4b4642e9"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 757,
+      "sha256": "8ad44fb898acd78d6fd75b398594e1fb038031bc8ca428b77e45727e4b4642e9"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 2204,
+      "sha256": "d34764a5a8d3e1cbcbbeeb2a4ca0144a3649e6e625a2aa42f07b12bb9edef6a6"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 25430,
+      "sha256": "0eb905eb13dcbf3de95ca229285dc99c299bca3399df219d21198c5a0d012e41"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 103665,
+      "sha256": "e52103a36a63af9b1b5be0450eec38f93af81a77c2e50bf5adfadf6d95f86093"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2522,
+      "sha256": "c9adeabb3eb338fa95896ecbfa6e6becc10fbdcc49e87c5a6fcdc362afb68a75"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "bed5e7631cca31a054e46ee46049375448d97f8723fafa0821b16b589f98e378"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1247,
+      "sha256": "49d0811e861f6eccea7ccfa2a0f6d1a262dfaf506b44a2132a8c06cdf22c7c56"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 391,
+      "sha256": "fa1579acc73fb74336d0684ed494d37e9c119fd0a462a627bf3fe3c285c7470a"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "770a4342c942a1b9c397764512ec163cdcfe1d2fbbe342eccc7e4a0d01c414ad"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z2801-chord-progression-01.mid",
+      "bytes": 272,
+      "sha256": "9be75472a9eb8a9c7a6e71f7147a71f44c8323d0f7154ed26d379de82cc35c4b"
+    },
+    {
+      "path": "clips/z2801-chord-progression-02.mid",
+      "bytes": 272,
+      "sha256": "fbe13ebdb881a01f223b56663118bc6c3c3442006144d7a44cf706e2a3a807c1"
+    },
+    {
+      "path": "clips/z2801-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "1a43bb708782f7eecf6e93673225010e0c36757c52bedd8df5fe723dd924fcb8"
+    },
+    {
+      "path": "clips/z2801-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "64039bec2e4e14bf1e71263f4774f9bb480d74a909b32424597d660c7e443296"
+    },
+    {
+      "path": "clips/z2802-chord-progression-01.mid",
+      "bytes": 272,
+      "sha256": "80b1cd553df7b18fad3b2916d644fdbd95dbc2e4d77a2f2f0da2a9ff69f6aaf5"
+    },
+    {
+      "path": "clips/z2802-chord-progression-02.mid",
+      "bytes": 272,
+      "sha256": "ad959f6991c380a0315b8b0a3b6451837954e35e67e14104b2fca85357eda6cb"
+    },
+    {
+      "path": "clips/z2802-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "6c7983cfa70f67617a6bade71db80034d7ad1c6f4c7c603a39d834342a095eab"
+    },
+    {
+      "path": "clips/z2802-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "0c0169ab2a318aa5ffd582d25812c51106aa74140525dc62055a9e4bd22444e5"
+    },
+    {
+      "path": "clips/z2803-chord-progression-01.mid",
+      "bytes": 272,
+      "sha256": "7ed33f904ea25c246cedb4266488a63cbcfc0e514d576a8fb013a7c81eb71027"
+    },
+    {
+      "path": "clips/z2803-chord-progression-02.mid",
+      "bytes": 272,
+      "sha256": "438f412430fc21f4b1d9754e8e6d1ed4ee839d4d0ea17a42f2dcd3c63ea7a24e"
+    },
+    {
+      "path": "clips/z2803-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "0dc27c76dff8647db53515867ad2d619e6d47e27953cc4193d4b2ee87dcef5d2"
+    },
+    {
+      "path": "clips/z2803-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "f0fa174c63619f9e6d3769d631ae23d27b772afe53232c42655c1e6e7a448a98"
+    },
+    {
+      "path": "clips/z2804-chord-progression-01.mid",
+      "bytes": 272,
+      "sha256": "ae1e28149369c0a1ed36ccd59390c351456227457d0d45293fedf1628a984c83"
+    },
+    {
+      "path": "clips/z2804-chord-progression-02.mid",
+      "bytes": 272,
+      "sha256": "6cb04dc6ddfd507ffc34cb6d9ce13c9ee919867527348fc6332ff94a8f6e5276"
+    },
+    {
+      "path": "clips/z2804-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "4317f21e8025fcd12f0e2bbc9f3c10425a014c93efbcb6291080a1867e5b10d4"
+    },
+    {
+      "path": "clips/z2804-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "8e4afd59a4578a215b9035f92660a02afb57b9f38738c124cfff41a92f43b96b"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 442,
+      "sha256": "b6f604e732cfdc8577ce6db89da04163713ae0f45e6c95556eb468b5cfae931c"
+    },
+    {
+      "path": "downloads/euphoric-trance-chord-arcs-midi.zip",
+      "bytes": 32915,
+      "sha256": "310f16e4f72237b24d38a993f1d82cc4bff1fdfdd43496ecccc985713e50570c"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2764,
+      "sha256": "4a0641b5fb4b347e28d871b68d2deb9825b45fbf5bbb1a1b7e2710df6bc4a43f"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 35221,
+      "sha256": "78e2d27e2bceadc8b19b9b628f3ad76c6d747169921b780254a25f7edaeb1a0f"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 254835,
+      "sha256": "c81d3460d6d18c81e4e1113315fe84e5c2ee136fa10738935bfabc7e8df43b1d"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 1074082,
+      "sha256": "56fc45250a1aa4c61a01212ec4383bfdc337040d7d726c0b0b0a45ee2e5a04b4"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1238,
+      "sha256": "52a4e3a11f54736fa9e954d0251dd9ecc3ebf9919ad7d625ea0bfd22f3daffee"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10068,
+      "sha256": "20c17b4f8640fec768a94e7c900a2ef0698680f82f593239c312a172e70ec747"
+    },
+    {
+      "path": "midi/z2801-euphoric-trance-chord-arcs-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "3e679e89ac0dac6542bc08d8b9e7d5e57639934ee4c9e7b7255567ec09e3c907"
+    },
+    {
+      "path": "midi/z2801-euphoric-trance-chord-arcs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "69e869fa3a4c66436c95bfb0c4e8783e8aa6efdc523a63da5a9c040c47bbae6e"
+    },
+    {
+      "path": "midi/z2801-euphoric-trance-chord-arcs-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a"
+    },
+    {
+      "path": "midi/z2801-euphoric-trance-chord-arcs-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "7be99a420107ffc4a8eb826cd219be19551a416a4e39c3c2a02b31392b1a2b75"
+    },
+    {
+      "path": "midi/z2801-euphoric-trance-chord-arcs-opening/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "c53740b015302f0e1e897d7027e921f09392baeaf2ea23ee1736210433c178d0"
+    },
+    {
+      "path": "midi/z2801-euphoric-trance-chord-arcs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0e09f864623494549e45fb99d4b003329626346420c9d1c1820609e69229af19"
+    },
+    {
+      "path": "midi/z2801-euphoric-trance-chord-arcs-opening/z2801-euphoric-trance-chord-arcs-opening-combined.mid",
+      "bytes": 6011,
+      "sha256": "414e8a16f0f60accc899a3c6f9ab55e451be7b07de8775fd0331e6d040c957c2"
+    },
+    {
+      "path": "midi/z2802-euphoric-trance-chord-arcs-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "2cd84551722a496d23babdc0b2b52a63be31c23ebbf8058ae2c6e9f7481edde5"
+    },
+    {
+      "path": "midi/z2802-euphoric-trance-chord-arcs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "23cf21f67b4154c6f2043dcb1f23fb8f28e2ce01ea6b69b4206bdc21c9e01faa"
+    },
+    {
+      "path": "midi/z2802-euphoric-trance-chord-arcs-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a"
+    },
+    {
+      "path": "midi/z2802-euphoric-trance-chord-arcs-variation/principal_motif.mid",
+      "bytes": 796,
+      "sha256": "d85dc34de48bbdea89c5c59837b6008713df6530ad8cb626ea47f8c276ad34e6"
+    },
+    {
+      "path": "midi/z2802-euphoric-trance-chord-arcs-variation/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "9543e78489419b91ec5ffe334dc518c43a5b2a65a2f0e54e12bf7bef97ac197a"
+    },
+    {
+      "path": "midi/z2802-euphoric-trance-chord-arcs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "87183d36ffe9473f89f02e6bb970d228d8fbf3c0c06979e9bd599c7822527cc3"
+    },
+    {
+      "path": "midi/z2802-euphoric-trance-chord-arcs-variation/z2802-euphoric-trance-chord-arcs-variation-combined.mid",
+      "bytes": 6010,
+      "sha256": "9a9f3498242d1b04c77ae1900c4f8af609ff9591581062f9e6fc26584d7451c9"
+    },
+    {
+      "path": "midi/z2803-euphoric-trance-chord-arcs-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "dda24d50b43b56dd7a54dc8a8294abd698c24a791c0bb0d20ea0886ec70df333"
+    },
+    {
+      "path": "midi/z2803-euphoric-trance-chord-arcs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "8a24bef11364741758d4674bd6184942b47d5454b6c75fbcfc4623f6b2e3b3d9"
+    },
+    {
+      "path": "midi/z2803-euphoric-trance-chord-arcs-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a"
+    },
+    {
+      "path": "midi/z2803-euphoric-trance-chord-arcs-contrast/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "87d1923d2b897f71825ff0a345362d66cdb05c7ac446d7f85f9a7175e598bf9e"
+    },
+    {
+      "path": "midi/z2803-euphoric-trance-chord-arcs-contrast/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "597b27a2ec6682d793671d3c3067cfd801867a884b73320ba4a2f0bf8d673893"
+    },
+    {
+      "path": "midi/z2803-euphoric-trance-chord-arcs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "cd594cc2f2eac5630514b55dce7cf61b249402ed15468dec454e1e6b648ad2d6"
+    },
+    {
+      "path": "midi/z2803-euphoric-trance-chord-arcs-contrast/z2803-euphoric-trance-chord-arcs-contrast-combined.mid",
+      "bytes": 5978,
+      "sha256": "d9ac5561e6889846df54ce59e61a1663a18c9a877335cbc9d126dbf948f1c5d0"
+    },
+    {
+      "path": "midi/z2804-euphoric-trance-chord-arcs-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "b2fd1230039f9f7e18a5786dd9f6af0bca0ba3fd503e2159a8c2758fa9a4140c"
+    },
+    {
+      "path": "midi/z2804-euphoric-trance-chord-arcs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "6fb788b0c199927a3a7449f6b472cdf3a0b8bcddaa2500c490d14e556e3e6422"
+    },
+    {
+      "path": "midi/z2804-euphoric-trance-chord-arcs-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a"
+    },
+    {
+      "path": "midi/z2804-euphoric-trance-chord-arcs-return/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "a99c767cf46ac0b3ef58807dd3e0a77cb5c2f5d9a156a58819b04fa5cdee1b37"
+    },
+    {
+      "path": "midi/z2804-euphoric-trance-chord-arcs-return/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "38c76b34928dcc01add0857956f061fc2d5460826ce6667ed22d325ae54cb650"
+    },
+    {
+      "path": "midi/z2804-euphoric-trance-chord-arcs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "45abef81f7e825eceab0c98fdb1595d9930c555d7c3cd38ecb59cc3351d2c984"
+    },
+    {
+      "path": "midi/z2804-euphoric-trance-chord-arcs-return/z2804-euphoric-trance-chord-arcs-return-combined.mid",
+      "bytes": 5978,
+      "sha256": "763e9f42e80acd2a9b3736e8a746f0edb1e74bbd72a864c91179290aea43d62c"
+    },
+    {
+      "path": "preview/euphoric-trance-chord-arcs-simple-synth-preview.mp3",
+      "bytes": 1349216,
+      "sha256": "9580f70df4119d010bd56d62ef5cbc0a9726b68c40ea2c80ce493bae6f3f5227"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1188,
+      "sha256": "50a3ce9bd72c2795be95d7695a99ddcecc4fd0044a3407c2c294d3499dc4a4c1"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4005,
+      "sha256": "63927b2b210c6aab4e2b192c98d6abd598ec5f9a845dbe038072e588ae68f67e"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 229,
+      "sha256": "b50f49c36f6282d317f09d4005297be376bb22b622d14b667c9fcc22426fe208"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 278682,
+      "sha256": "8b1a3bd331a50440eaad5f3a1e08c89fca8ffb2cf39951d61f666fd9f536cab4"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 259103,
+      "sha256": "d1eaf8acf24ffc36da3a54d3e80b9b138e90ea9d08b65b3b022716d14c402921"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 254298,
+      "sha256": "c6ae34aa7f00d1bb2960ba95e0b64629321355866e296eb489404ed619788c67"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 191,
+      "sha256": "33aeae1c0726d8e4ebc25a0b9f03d3a53f62caa590e01d4ab4a1ef439e8d7488"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13319,
+      "sha256": "b164c76ea578ca5192fa462055ebe76e5b1035a70d04e32ce65433fa1be8829c"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Euphoric Trance Chord Arcs",
+  "study": "z2801",
+  "bpm": 138,
+  "source_audio": "preview/euphoric-trance-chord-arcs-simple-synth-preview.mp3",
+  "source_audio_sha256": "9580f70df4119d010bd56d62ef5cbc0a9726b68c40ea2c80ce493bae6f3f5227",
+  "source_midi": "midi/z2801-euphoric-trance-chord-arcs-opening/z2801-euphoric-trance-chord-arcs-opening-combined.mid",
+  "source_midi_sha256": "414e8a16f0f60accc899a3c6f9ab55e451be7b07de8775fd0331e6d040c957c2",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "e52103a36a63af9b1b5be0450eec38f93af81a77c2e50bf5adfadf6d95f86093",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "e402e006a962ec32354c067a2d5cb5ff8254423f49f0547874c1de8488d93d10",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "56fc45250a1aa4c61a01212ec4383bfdc337040d7d726c0b0b0a45ee2e5a04b4",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:54.389245+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z2801-euphoric-trance-chord-arcs-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "3e679e89ac0dac6542bc08d8b9e7d5e57639934ee4c9e7b7255567ec09e3c907",
+      "errors": []
+    },
+    {
+      "path": "midi/z2801-euphoric-trance-chord-arcs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "69e869fa3a4c66436c95bfb0c4e8783e8aa6efdc523a63da5a9c040c47bbae6e",
+      "errors": []
+    },
+    {
+      "path": "midi/z2801-euphoric-trance-chord-arcs-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2801-euphoric-trance-chord-arcs-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "7be99a420107ffc4a8eb826cd219be19551a416a4e39c3c2a02b31392b1a2b75",
+      "errors": []
+    },
+    {
+      "path": "midi/z2801-euphoric-trance-chord-arcs-opening/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "c53740b015302f0e1e897d7027e921f09392baeaf2ea23ee1736210433c178d0",
+      "errors": []
+    },
+    {
+      "path": "midi/z2801-euphoric-trance-chord-arcs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0e09f864623494549e45fb99d4b003329626346420c9d1c1820609e69229af19",
+      "errors": []
+    },
+    {
+      "path": "midi/z2801-euphoric-trance-chord-arcs-opening/z2801-euphoric-trance-chord-arcs-opening-combined.mid",
+      "bytes": 6011,
+      "sha256": "414e8a16f0f60accc899a3c6f9ab55e451be7b07de8775fd0331e6d040c957c2",
+      "errors": []
+    },
+    {
+      "path": "midi/z2802-euphoric-trance-chord-arcs-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "2cd84551722a496d23babdc0b2b52a63be31c23ebbf8058ae2c6e9f7481edde5",
+      "errors": []
+    },
+    {
+      "path": "midi/z2802-euphoric-trance-chord-arcs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "23cf21f67b4154c6f2043dcb1f23fb8f28e2ce01ea6b69b4206bdc21c9e01faa",
+      "errors": []
+    },
+    {
+      "path": "midi/z2802-euphoric-trance-chord-arcs-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2802-euphoric-trance-chord-arcs-variation/principal_motif.mid",
+      "bytes": 796,
+      "sha256": "d85dc34de48bbdea89c5c59837b6008713df6530ad8cb626ea47f8c276ad34e6",
+      "errors": []
+    },
+    {
+      "path": "midi/z2802-euphoric-trance-chord-arcs-variation/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "9543e78489419b91ec5ffe334dc518c43a5b2a65a2f0e54e12bf7bef97ac197a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2802-euphoric-trance-chord-arcs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "87183d36ffe9473f89f02e6bb970d228d8fbf3c0c06979e9bd599c7822527cc3",
+      "errors": []
+    },
+    {
+      "path": "midi/z2802-euphoric-trance-chord-arcs-variation/z2802-euphoric-trance-chord-arcs-variation-combined.mid",
+      "bytes": 6010,
+      "sha256": "9a9f3498242d1b04c77ae1900c4f8af609ff9591581062f9e6fc26584d7451c9",
+      "errors": []
+    },
+    {
+      "path": "midi/z2803-euphoric-trance-chord-arcs-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "dda24d50b43b56dd7a54dc8a8294abd698c24a791c0bb0d20ea0886ec70df333",
+      "errors": []
+    },
+    {
+      "path": "midi/z2803-euphoric-trance-chord-arcs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "8a24bef11364741758d4674bd6184942b47d5454b6c75fbcfc4623f6b2e3b3d9",
+      "errors": []
+    },
+    {
+      "path": "midi/z2803-euphoric-trance-chord-arcs-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2803-euphoric-trance-chord-arcs-contrast/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "87d1923d2b897f71825ff0a345362d66cdb05c7ac446d7f85f9a7175e598bf9e",
+      "errors": []
+    },
+    {
+      "path": "midi/z2803-euphoric-trance-chord-arcs-contrast/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "597b27a2ec6682d793671d3c3067cfd801867a884b73320ba4a2f0bf8d673893",
+      "errors": []
+    },
+    {
+      "path": "midi/z2803-euphoric-trance-chord-arcs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "cd594cc2f2eac5630514b55dce7cf61b249402ed15468dec454e1e6b648ad2d6",
+      "errors": []
+    },
+    {
+      "path": "midi/z2803-euphoric-trance-chord-arcs-contrast/z2803-euphoric-trance-chord-arcs-contrast-combined.mid",
+      "bytes": 5978,
+      "sha256": "d9ac5561e6889846df54ce59e61a1663a18c9a877335cbc9d126dbf948f1c5d0",
+      "errors": []
+    },
+    {
+      "path": "midi/z2804-euphoric-trance-chord-arcs-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "b2fd1230039f9f7e18a5786dd9f6af0bca0ba3fd503e2159a8c2758fa9a4140c",
+      "errors": []
+    },
+    {
+      "path": "midi/z2804-euphoric-trance-chord-arcs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "6fb788b0c199927a3a7449f6b472cdf3a0b8bcddaa2500c490d14e556e3e6422",
+      "errors": []
+    },
+    {
+      "path": "midi/z2804-euphoric-trance-chord-arcs-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2804-euphoric-trance-chord-arcs-return/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "a99c767cf46ac0b3ef58807dd3e0a77cb5c2f5d9a156a58819b04fa5cdee1b37",
+      "errors": []
+    },
+    {
+      "path": "midi/z2804-euphoric-trance-chord-arcs-return/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "38c76b34928dcc01add0857956f061fc2d5460826ce6667ed22d325ae54cb650",
+      "errors": []
+    },
+    {
+      "path": "midi/z2804-euphoric-trance-chord-arcs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "45abef81f7e825eceab0c98fdb1595d9930c555d7c3cd38ecb59cc3351d2c984",
+      "errors": []
+    },
+    {
+      "path": "midi/z2804-euphoric-trance-chord-arcs-return/z2804-euphoric-trance-chord-arcs-return-combined.mid",
+      "bytes": 5978,
+      "sha256": "763e9f42e80acd2a9b3736e8a746f0edb1e74bbd72a864c91179290aea43d62c",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
