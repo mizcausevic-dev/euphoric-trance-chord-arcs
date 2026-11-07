@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/euphoric-trance-chord-arcs-midi.zip",
-      "bytes": 32915,
-      "sha256": "310f16e4f72237b24d38a993f1d82cc4bff1fdfdd43496ecccc985713e50570c"
+      "bytes": 33902,
+      "sha256": "df2ebf05f180801ca2e8a5fd7a1081d166f2b5c07a48476e866444e54302a2f2"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10068,
-      "sha256": "20c17b4f8640fec768a94e7c900a2ef0698680f82f593239c312a172e70ec747"
+      "bytes": 10258,
+      "sha256": "65cdb1c909500b1481f3923589ff9b5bd898b42e6f69c36e180c3a0989b17eb0"
     },
     {
       "path": "midi/z2801-euphoric-trance-chord-arcs-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "763e9f42e80acd2a9b3736e8a746f0edb1e74bbd72a864c91179290aea43d62c"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/euphoric-trance-chord-arcs-simple-synth-preview.mp3",
       "bytes": 1349216,
       "sha256": "9580f70df4119d010bd56d62ef5cbc0a9726b68c40ea2c80ce493bae6f3f5227"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4011,
-      "sha256": "2bbb0de4dd908c95ceaccf0f4f0f1beab56acb74c48be6e7395961d3c30ec17d"
+      "bytes": 4126,
+      "sha256": "13e80e5a57c8a63f5781c8dd3a2204a803dfa54d1ca253a706ae875db65f0c13"
     },
     {
       "path": "social/instagram/caption.txt",
